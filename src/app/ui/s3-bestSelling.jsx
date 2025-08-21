@@ -14,8 +14,8 @@ export default function JewelryShowcase() {
           className="w-full h-full object-cover"
         />
         <div className="absolute bottom-8 left-8 text-white">
-          <h2 className="text-2xl font-semibold mb-3">Best Selling Jewelry</h2>
-          <button className="px-6 py-2 border border-white text-white hover:bg-white hover:text-black transition rounded-md">
+          <h2 className="text-2xl md:text-base lg:text-2xl font-semibold mb-3">Best Selling Jewelry</h2>
+          <button className="px-6 py-2 border border-white text-[10px] text-white hover:bg-white hover:text-black transition rounded-md">
             SHOP NOW
           </button>
         </div>
@@ -31,8 +31,8 @@ export default function JewelryShowcase() {
           className="w-full h-full object-cover"
         />
         <div className="absolute bottom-8 left-8 text-white">
-          <h2 className="text-2xl font-semibold mb-3">Ready To Ship</h2>
-          <button className="px-6 py-2 border border-white text-white hover:bg-white hover:text-black transition rounded-md">
+          <h2 className="text-2xl md:text-base lg:text-2xl font-semibold mb-3">Ready To Ship</h2>
+          <button className="px-6 py-2 border border-white text-[10px] text-white hover:bg-white hover:text-black transition rounded-md">
             SHOP NOW
           </button>
         </div>
@@ -47,8 +47,8 @@ export default function JewelryShowcase() {
           className="w-full h-full object-cover"
         />
         <div className="absolute bottom-8 left-8 text-white">
-          <h2 className="text-2xl font-semibold mb-3">Ready To Ship</h2>
-          <button className="px-6 py-2 border border-white text-white hover:bg-white hover:text-black transition rounded-md">
+          <h2 className="text-2xl md:text-base lg:text-2xl font-semibold mb-3">Ready To Ship</h2>
+          <button className="px-6 py-2 border border-white text-[10px] text-white hover:bg-white hover:text-black transition rounded-md">
             SHOP NOW
           </button>
         </div>
