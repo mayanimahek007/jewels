@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 import { useParams } from 'next/navigation';
 import Image from 'next/image';
 import HeaderReact from '@/app/components/HeaderReact';
-import Footer from '@/app/components/Footer';
+import Footer from '@/app/components/footer';
 
 // Sample product data - matches the structure from ProductPage
 const sampleProducts = [
