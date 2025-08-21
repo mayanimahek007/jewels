@@ -169,7 +169,7 @@ export default function Header() {
            <img 
           src='/img/mansi.svg' 
           alt='GEMS GLOBAL JEWELS' 
-          className='w-full h-17 object-contain left-1/2'
+          className='w-32 h-17 object-contain left-1/2'
           onClick={() => window.location.href = '/'}
         />
           {/* <Link href="/" className="text-lg font-semibold tracking-wide text-[#2B4E4E]">
